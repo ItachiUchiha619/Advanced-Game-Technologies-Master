@@ -1,0 +1,45 @@
+﻿  Assets.cpp
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshAnimation.cpp
+  MeshGeometry.cpp
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Assets.cpp(45,9): warning C4244:  '=': conversion from 'std::streamoff' to 'size_t', possible loss of data
+  MeshMaterial.cpp
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\MeshGeometry.cpp(283,20): warning C4018:  '<': signed/unsigned mismatch
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  Generating Code...
+  Compiling...
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\MeshMaterial.cpp(64,17): warning C4018:  '>=': signed/unsigned mismatch
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(49,30): error C2039:  'max': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  see declaration of 'std'
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(49,33): error C3861:  'max': identifier not found
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(50,30): error C2039:  'min': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  see declaration of 'std'
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(50,33): error C3861:  'min': identifier not found
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(52,30): error C2039:  'max': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  see declaration of 'std'
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(52,33): error C3861:  'max': identifier not found
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(53,30): error C2039:  'min': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\include\string(19): message :  see declaration of 'std'
+  Win32Window.cpp
+  Window.cpp
+  Generating Code...
+D:\University Works\Master\CSC8503\8503 Release  2021\Common\Win32Mouse.cpp(53,33): error C3861:  'min': identifier not found
